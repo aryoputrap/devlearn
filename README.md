@@ -2,10 +2,10 @@
 https://github.com/aryoputrap/devlearn-memberpage
 
 ## Backend Microservice:
-user:https://github.com/aryoputrap/devlearnuser
-api-gateway: https://github.com/aryoputrap/devlearn-apigateway
-service-course: https://github.com/aryoputrap/devlearn-servicecourse
-Payment: https://github.com/aryoputrap/devlearn-payment
+- User:https://github.com/aryoputrap/devlearnuser
+- Api-gateway: https://github.com/aryoputrap/devlearn-apigateway
+- Service-course: https://github.com/aryoputrap/devlearn-servicecourse
+- Payment: https://github.com/aryoputrap/devlearn-payment
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
