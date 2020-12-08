@@ -1,5 +1,5 @@
-## Member Page Link:
-https://github.com/aryoputrap/devlearn-memberpage
+## Page Link:
+- Memberpage: https://github.com/aryoputrap/devlearn-memberpage
 
 ## Backend Microservice:
 - User:https://github.com/aryoputrap/devlearnuser
