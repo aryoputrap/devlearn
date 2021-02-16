@@ -17,7 +17,7 @@ function Home({ data }) {
   return (
     <>
       <Head>
-        <title>BWAMICRO</title>
+        <title>DEVLEARN</title>
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
